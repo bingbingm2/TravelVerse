@@ -78,7 +78,7 @@ TravelVerse/
           "description": "string",
           "startTime": "string",
           "endTime": "string",
-          "realTimeInfo": "string"  // 队友的web scraping数据
+          "realTimeInfo": "string"  //web scraping data
         }
       ],
       "notes": "string"
